@@ -1,6 +1,6 @@
 # Face-Landmarks-and-metrics-calculator
 
-Welcome to the **Face Metrics Calculator** project! This tool calculates various facial metrics using a webcam or video file. It uses MediaPipe for facial landmark detection and OpenCV for image processing. 
+Welcome to the **Face Landmarks and Metrics Calculator** project! This tool calculates various facial metrics using a webcam or video file. It uses MediaPipe for facial landmark detection and OpenCV for image processing. 
 
 ## Contents
 
